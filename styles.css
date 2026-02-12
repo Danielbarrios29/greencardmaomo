@@ -459,6 +459,30 @@ footer {
     box-shadow: 0 -3px 10px rgba(0, 0, 0, 0.2);
 }
 
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.footer-link {
+    color: #6ec76e;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+.footer-link:hover {
+    color: #fff;
+    background-color: rgba(110, 199, 110, 0.2);
+    transform: translateY(-2px);
+}
+
 @media (max-width: 768px) {
     .banner {
         height: 450px;
