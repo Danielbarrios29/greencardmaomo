@@ -1,0 +1,7 @@
+/* TEAM */
+Developer: Jose Barrios
+Website: Green Cardamom Project
+Location: Edmonton, Alberta, Canada
+
+/* THANKS */
+Thanks to NAIT Web Business Essentials (DMIT1528)
